@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate Python Developer | Web Scraping & Backend Engineering
+  A Python Developer | Web Scraping
 </h3>
 
 <p align="center">
