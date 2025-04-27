@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItzReimu" alt="visitors" />
+  <img src="https://count.getloli.com/get/@Itz_Reimu?theme=rule34" alt="visitor badge"/>
 </p>
