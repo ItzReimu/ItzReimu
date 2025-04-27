@@ -67,3 +67,10 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@Itz_Reimu?theme=capoo-1" alt="visitor badge"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="cool background" width="600" />
+</p>
+
