@@ -43,14 +43,6 @@
 
 ---
 
-### 🔥 GitHub Contribution Streak:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzReimu&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📊 Most Used Languages:
 
 <p align="center">
